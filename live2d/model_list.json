@@ -1,0 +1,12 @@
+{
+    "models": [
+		"girls-frontline/AK12",
+		"girls-frontline/AN-94",
+		"girls-frontline/g11_4102",
+		"girls-frontline/hk416_3401",
+		"girls-frontline/ump45_3403"
+    ],
+    "messages": [
+        "嗨！主人我来喽 ~"
+    ]
+}
